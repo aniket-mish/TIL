@@ -9,4 +9,4 @@
 
 ### Python
 
-- [python concurrency and parellelism](python/python-concurrency.md)
+- [Python Concurrency and Parellelism](python/python-concurrency.md)
