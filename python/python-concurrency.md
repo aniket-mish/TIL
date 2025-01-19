@@ -2,8 +2,8 @@
 
 references
 
-1. https://realpython.com/python-concurrency/#:~:text=Concurrency%20refers%20to%20the%20ability,unique%20benefits%20and%20trade%2Doffs
-2. https://fastapi.tiangolo.com/async/
+1. [Speed Up Your Python Program With Concurrency](https://realpython.com/python-concurrency/)
+2. [Concurrency and async / await](https://fastapi.tiangolo.com/async/)
 
 ## concurrency ⇒ handle multiple tasks at once
 
