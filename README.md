@@ -22,5 +22,6 @@
 ### Algorithms
 
 - [Linear Regression with Gradient Descent](algorithms/linear-regression-w-gd.md)
-- [Logistic Regression from scratch](algorithms/logistic-regression.md)
+- [Logistic Regression from Scratch](algorithms/logistic-regression.md)
 - [Implementing a KNN Classifier](algorithms/knn-classifier.md)
+- [K-Means Clustering Algorithm](algorithms/k-means-clustering.md)
