@@ -6,6 +6,7 @@
 
 - [Python](#Python)
 - [Training](#Training)
+- [Algorithms](#Algorithms)
 
 
 ### Python
@@ -16,3 +17,8 @@
 ### Training
 
 - [Multi-GPU Training with DDP and FSDP](training/multi-gpu-training-with-ddp-fsdp.md)
+
+
+### Algorithms
+
+- [Linear Regression with Gradient Descent](algorithms/linear-regression-w-gd.md)
