@@ -23,3 +23,4 @@
 
 - [Linear Regression with Gradient Descent](algorithms/linear-regression-w-gd.md)
 - [Logistic Regression from scratch](algorithms/logistic-regression.md)
+- [Implementing a KNN Classifier](algorithms/knn-classifier.md)
