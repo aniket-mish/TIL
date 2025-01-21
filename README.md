@@ -22,3 +22,4 @@
 ### Algorithms
 
 - [Linear Regression with Gradient Descent](algorithms/linear-regression-w-gd.md)
+- [Logistic Regression from scratch](algorithms/logistic-regression.md)
